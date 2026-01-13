@@ -1,0 +1,13 @@
+
+### request
+POST http://localhost:8081/patients
+Content-Type: application/json
+Accept: application/json
+
+{
+"name": "John Doe",
+"email": "test_john@example.com",
+"address": "123 main street",
+"dateOfBirth": "2001-12-09",
+"registeredDate": "2026-12-30"
+}

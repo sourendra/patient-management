@@ -1,0 +1,12 @@
+// Status: 400, time: 51ms, size: 35 B
+### request
+PUT http://localhost:8081/patients/123e4567-e89b-12d3-a456-426614174000 HTTP/1.1
+connection: close
+content-type: application/json
+date: Mon, 05 Jan 2026 17:52:13 GMT
+transfer-encoding: chunked
+
+{
+  "message": "Email already exists!"
+}
+>> F:\SpringProjects\patient-management\.idea\httpClient\01-05\request\2026-01-05T232214.json

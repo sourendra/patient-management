@@ -1,0 +1,15 @@
+// Status: 200, time: 473ms, size: 150 B
+### request
+POST http://localhost:8081/patients HTTP/1.1
+content-type: application/json
+date: Mon, 05 Jan 2026 13:24:40 GMT
+transfer-encoding: chunked
+
+{
+  "id": "c0b14bc0-005d-4ac0-8f61-2dcf270a8980",
+  "name": "John Doe",
+  "email": "test_john@example.com",
+  "address": "123 main street",
+  "dateOfBirth": "2001-12-09"
+}
+>> F:\SpringProjects\patient-management\.idea\httpClient\01-05\request\2026-01-05T185440.json

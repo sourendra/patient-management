@@ -1,0 +1,3 @@
+### Delete patient request
+DELETE http://localhost:8081/patients/b3165089-e6f4-4eed-a6f4-3255a02bf11f
+Accept: application/json

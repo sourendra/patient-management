@@ -1,0 +1,14 @@
+// Size: 148 B
+### request
+POST http://localhost:8081/patients HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Content-Length: 148
+
+{
+"name": "John Doe",
+"email": "test_john@example.com",
+"address": "123 main street",
+"dateOfBirth": "2001-12-09",
+"registeredDate": "2025-12-30"
+}

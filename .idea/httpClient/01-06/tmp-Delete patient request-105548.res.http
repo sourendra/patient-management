@@ -1,0 +1,7 @@
+// Status: 204, time: 81ms, size: 0 B
+### Delete patient request
+DELETE http://localhost:8081/patients/b3165089-e6f4-4eed-a6f4-3255a02bf11f HTTP/1.1
+date: Tue, 06 Jan 2026 17:25:48 GMT
+
+
+>> F:\SpringProjects\patient-management\.idea\httpClient\01-06\Delete patient request\2026-01-06T225548.txt

@@ -1,0 +1,12 @@
+// Status: 400, time: 576ms, size: 31 B
+### request
+POST http://localhost:8081/patients HTTP/1.1
+connection: close
+content-type: application/json
+date: Mon, 05 Jan 2026 13:20:49 GMT
+transfer-encoding: chunked
+
+{
+  "email": "Email is not valid!"
+}
+>> F:\SpringProjects\patient-management\.idea\httpClient\01-05\request\2026-01-05T185049.json

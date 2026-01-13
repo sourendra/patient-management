@@ -1,0 +1,12 @@
+// Status: 400, time: 1,454ms, size: 65 B
+### request
+POST http://localhost:8081/patients HTTP/1.1
+connection: close
+content-type: application/json
+date: Mon, 05 Jan 2026 10:57:56 GMT
+transfer-encoding: chunked
+
+{
+  "registeredDate": "Registered Date must be in yyyy-MM-dd format"
+}
+>> F:\SpringProjects\patient-management\.idea\httpClient\01-05\request\2026-01-05T162756.json

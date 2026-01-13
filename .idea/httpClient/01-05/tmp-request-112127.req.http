@@ -1,0 +1,13 @@
+// Size: 124 B
+### request
+PUT http://localhost:8081/patients/123e4567-e89b-12d3-a456-426614174000 HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Content-Length: 124
+
+{
+"name": "John Doe",
+"email": "john.doe@example.com",
+"address": "123 Main St, Springfield",
+"dateOfBirth": "1985-06-15"
+}

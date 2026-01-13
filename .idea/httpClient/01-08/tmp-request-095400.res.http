@@ -1,0 +1,15 @@
+// Status: 500, time: 568ms, size: 109 B
+### request
+POST http://localhost:8081/patients HTTP/1.1
+connection: close
+content-type: application/json
+date: Thu, 08 Jan 2026 16:24:00 GMT
+transfer-encoding: chunked
+
+{
+  "timestamp": "2026-01-08T16:23:59.979+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/patients"
+}
+>> F:\SpringProjects\patient-management\.idea\httpClient\01-08\request\2026-01-08T215400.json
