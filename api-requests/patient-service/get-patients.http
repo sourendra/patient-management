@@ -1,4 +1,6 @@
 
 ### GET request to get all patients
-GET http://localhost:8081/patients/223e4567-e89b-12d3-a456-426614174009
+GET http://localhost:8081/patients
 Accept: application/json
+### GET request to get the patient
+GET http://localhost:8081/patients/223e4567-e89b-12d3-a456-426614174009
