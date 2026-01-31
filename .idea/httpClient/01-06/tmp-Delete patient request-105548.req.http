@@ -1,6 +1,0 @@
-// Size: 0 B
-### Delete patient request
-DELETE http://localhost:8081/patients/b3165089-e6f4-4eed-a6f4-3255a02bf11f HTTP/1.1
-Accept: application/json
-Content-Length: 0
-
