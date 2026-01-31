@@ -1,0 +1,11 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/sourendra/patient-management-config-repo
+  application:
+    name: config-server
+
+server:
+  port: 8088
